@@ -1,0 +1,5 @@
+[
+  { "id": 1, "price": 100, "stops": 0, "origin": "NYC", "destination": "LA" },
+  { "id": 2, "price": 200, "stops": 1, "origin": "NYC", "destination": "SF" },
+  { "id": 3, "price": 150, "stops": 2, "origin": "NYC", "destination": "CHI" }
+]
